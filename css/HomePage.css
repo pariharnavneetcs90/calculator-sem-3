@@ -1,0 +1,295 @@
+*,body,html {
+	margin: 0;
+	padding: 0;
+}
+
+html, body {
+    overflow-x: hidden;
+}
+
+
+.mynav{
+	background: #ffffff !important;
+}
+
+.logo_modify{
+	margin-left: 70px;
+	font-size: 2rem;
+}
+
+.modify a{
+	margin-right: 10px;
+}
+
+.modify a:hover{
+	border-bottom: 2px solid #0091EA;
+	color: #0091EA !important;
+}
+
+.space_top{
+	margin-top: 150px;
+}
+
+.btn-primary {
+    color: #fff;
+    background-color: #0091EA;
+    border-color: #0091EA;
+}
+
+.button4 {
+	border-radius: 8px;
+	padding-right: 20px;
+	padding-left: 20px;
+}
+
+.edge{
+	border-radius: 24px;
+	max-width: 100%;
+  	height: auto;
+}
+
+.space_top2{
+	margin-top: 80px;
+}
+
+.card1{
+	width: 150px;
+	height: 80px;
+	margin: auto;
+	padding-bottom: 10px;
+	padding-top: 10px;
+	opacity: 0.5;
+}
+
+.card2{
+	width: 80px;
+	margin: auto;
+	opacity: 0.5;
+	margin-bottom: -3px;
+}
+
+
+.iox_text{
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 14px;
+	line-height: 22px;
+	text-align: center;
+	letter-spacing: -0.015em;
+
+	color: rgba(0, 0, 0, 0.8);
+}
+
+
+
+.about{
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 14px;
+	line-height: 22px;
+	text-align: center;
+	letter-spacing: -0.015em;
+	color: #5F5F5F;
+}
+
+@font-face{
+    font-family: 'Montserrat';
+    src: url ("../fonts/Montserrat.ttf");
+}
+
+*,html,body{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+html, body {
+    overflow-x: hidden;
+}
+
+
+.mynav{
+	background: #ffffff !important;
+}
+
+.logo_modify{
+	margin-left: 70px;
+	font-size: 2rem;
+}
+
+.modify a{
+	margin-right: 10px;
+}
+
+.modify a:hover{
+	border-bottom: 2px solid #0091EA;
+	color: #0091EA !important;
+}
+
+.space_{
+	margin-top: 70px;
+	word-spacing: 1rem;
+	letter-spacing: 0.018rem;
+	font-family: 'Montserrat';
+}
+
+.text_modify{
+	font-family: 'Montserrat';
+	font-style: normal;
+	font-weight: normal;
+	font-size: 14px;
+	line-height: 22px;
+	/* or 157% */
+	text-align: center;
+	letter-spacing: -0.015em;
+}
+
+.head_modify{
+
+	font-family: 'Montserrat';
+	font-style: normal;
+	font-weight: 600;
+	font-size: 48px;
+	line-height: 59px;
+	/* identical to box height */
+	text-align: center;
+
+	color: #263238;
+}
+
+.ct_1{
+	font-family: 'Montserrat';
+	font-style: normal;
+	font-weight: 600;
+	font-size: 20px;
+	line-height: 36px;
+	text-align: center;
+	letter-spacing: -0.015em;
+
+	color: #5F5F5F;
+}
+
+.card_radius{
+	border-radius: 24px;
+}
+
+.shadow-sm {
+    box-shadow: 0 .125rem .25rem rgba(130, 202, 255)!important;
+}
+
+.form_radius{
+	border-radius: 0.5rem !important;
+}
+
+.form-control-lg {
+    min-height: calc(1.5em + 1rem + 2px);
+    padding: .5rem 1rem;
+    font-size: 1rem;
+    border-radius: .5rem;
+}
+
+.btn {
+   font-family: 'Montserrat';
+   line-height: 1.7 !important;
+}
+
+.btn-primary {
+    color: #fff;
+    background-color: #0091EA;
+    border-color: #0091EA;
+}
+
+.card img{
+width: 4rem;
+margin-left: 10px;
+}
+
+.text_1{
+	font-family: 'Montserrat';
+	font-style: normal;
+	font-weight: 500;
+	font-size: 14px;
+	line-height: 24px;
+	/* or 171% */
+	letter-spacing: -0.015em;
+}
+
+.text_2{
+	font-family: 'Montserrat';
+	font-weight: bold;
+	color: #263238;
+}
+
+.cont{
+	background-image: url('../images/footer.svg');
+	background-repeat: no-repeat;
+	background-size: cover;
+	
+	margin-top: 120px;
+	padding-top: 300px;
+}
+
+
+.cont1{
+	background: #0055C8;
+	opacity: 0.7;
+}
+
+.nav-item a{
+    font-weight: 400;
+    color: #fff;
+    text-decoration: none;
+    font-family: 'Montserrat';
+	font-style: normal;
+	font-weight: normal;
+	font-size: 14px;
+	line-height: 24px;
+	/* or 171% */
+	letter-spacing: -0.015em;
+}
+
+.foot_ h4{
+	font-family: Comfortaa;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 28.4444px;
+	line-height: 32px;
+	/* identical to box height */
+	display: flex;
+	align-items: center;
+	letter-spacing: -0.015em;
+}
+
+.foot_ p{
+	font-family: 'Montserrat';
+	font-style: normal;
+	font-weight: 500;
+	font-size: 14px;
+	line-height: 24px;
+	/* or 175% */
+	letter-spacing: -0.015em;
+}
+
+.foot_topic{
+	font-family: 'Montserrat';
+	font-style: normal;
+	font-weight: 600;
+	font-size: 15px;
+	line-height: 24px;
+	/* identical to box height, or 160% */
+	letter-spacing: -0.015em;
+}
+
+.cont1 p{
+	font-family: 'Montserrat';
+	font-style: normal;
+	font-weight: 500;
+	font-size: 14px;
+	line-height: 24px;
+	letter-spacing: -0.015em;
+
+	color: rgba(255, 255, 255, 0.8);
+}
+
